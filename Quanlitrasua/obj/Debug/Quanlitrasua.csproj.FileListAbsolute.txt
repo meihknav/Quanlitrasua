@@ -1,0 +1,9 @@
+c:\users\user\onedrive\documents\visual studio 2015\Projects\Quanlitrasua\Quanlitrasua\bin\Debug\Quanlitrasua.exe.config
+c:\users\user\onedrive\documents\visual studio 2015\Projects\Quanlitrasua\Quanlitrasua\bin\Debug\Quanlitrasua.exe
+c:\users\user\onedrive\documents\visual studio 2015\Projects\Quanlitrasua\Quanlitrasua\bin\Debug\Quanlitrasua.pdb
+c:\users\user\onedrive\documents\visual studio 2015\Projects\Quanlitrasua\Quanlitrasua\obj\Debug\Quanlitrasua.csprojResolveAssemblyReference.cache
+c:\users\user\onedrive\documents\visual studio 2015\Projects\Quanlitrasua\Quanlitrasua\obj\Debug\Quanlitrasua.Quanlitrasua.resources
+c:\users\user\onedrive\documents\visual studio 2015\Projects\Quanlitrasua\Quanlitrasua\obj\Debug\Quanlitrasua.Properties.Resources.resources
+c:\users\user\onedrive\documents\visual studio 2015\Projects\Quanlitrasua\Quanlitrasua\obj\Debug\Quanlitrasua.csproj.GenerateResource.Cache
+c:\users\user\onedrive\documents\visual studio 2015\Projects\Quanlitrasua\Quanlitrasua\obj\Debug\Quanlitrasua.exe
+c:\users\user\onedrive\documents\visual studio 2015\Projects\Quanlitrasua\Quanlitrasua\obj\Debug\Quanlitrasua.pdb
